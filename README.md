@@ -1,16 +1,16 @@
 [![Header](https://github.com/tlysed/tlysed/blob/main/assets/github-banner.png)](https://tlysed.github.io/)
+### • Основатель студии YumyFoxy
 
-<!--
-**tlysed/tlysed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## • Популярные проекты:-->
 
-Here are some ideas to get you started:
+## • Социальные сети:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram YumyFoxy](https://img.shields.io/badge/-YumyFoxy-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yumyfoxy)
+[![Telegram YumyFoxy YG](https://img.shields.io/badge/-YumyFoxy_YG-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yumyfoxy_yg)
+[![YouTube Tlysed](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@Tlysed)
+
+## • Статистика:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlysed&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlysed&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlysed&theme=algolia)
