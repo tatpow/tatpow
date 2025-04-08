@@ -1,4 +1,4 @@
-[![Header](https://github.com/tlysed/tlysed/blob/main/assets/github-bannder.png)](https://tlysed.github.io/)
+[![Header](https://github.com/tlysed/tlysed/blob/main/assets/github-banner.png)](https://tlysed.github.io/)
 
 <!--
 **tlysed/tlysed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
