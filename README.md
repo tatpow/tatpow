@@ -1,7 +1,7 @@
 <h1 align="center">pew paw, it's a tatpow!</h1>
 
 <p align="center">
-  <a href="https://tlysed.github.io/">
+  <a href="https://tatpow.github.io">
     <img align="center" src="assets/logo.gif" width="300" alt="GIF Logo"/>
   </a>
 </p>
