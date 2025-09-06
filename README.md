@@ -1,16 +1,12 @@
-[![Header](https://github.com/tlysed/tlysed/blob/main/assets/github-banner.png)](https://tlysed.github.io/)
-### • Основатель студии YumyFoxy
+<h1 align="center">pew paw, it's a tatpow!</h1>
+|
+[![GIF Logo](https://github.com/tatpow/tatpow/blob/main/assets/logo.gif)](https://tlysed.github.io/)
 
-<!--## • Популярные проекты:-->
+<h3 align="center">My socials:<h3>
+<p align="center">🤫🧏‍♂️</p>
 
-## • Социальные сети:
+<h3 align="center">😎 My Stats:</h3>
 
-[![Telegram YumyFoxy](https://img.shields.io/badge/-YumyFoxy-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yumyfoxy)
-[![Telegram YumyFoxy YG](https://img.shields.io/badge/-YumyFoxy_YG-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/yumyfoxy_yg)
-[![YouTube Tlysed](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@Tlysed)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrey0189&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="andrey0189" /></p>
 
-## • Статистика:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlysed&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlysed&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlysed&theme=algolia)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey0189&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="andrey0189" /></p>
