@@ -1,14 +1,12 @@
 <h1 align="center">pew paw, it's a tatpow!</h1>
 
-<p align="center">
+<div align="center">
   <a href="https://tatpow.github.io">
     <img align="center" src="assets/logo.gif" width="300" alt="GIF Logo"/>
   </a>
-</p>
+</div>
 
----
-
-<h2 align="center">⚙ Tecnologies</h2>>
+<h2 align="center">⚙ Tecnologies</h2>
 <div align="center">
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,10 +22,8 @@
   
 </div>
 
----
+<h2 align="center">😎 My Stats:</h2>
 
-<h2 align="center">😎 My Stats:</23>
+<div><img align="left" src="./profile/top-langs.svg" alt="tatpow" /></div>
 
-<p><img align="left" src="./profile/top-langs.svg" alt="tatpow" /></p>
-
-<p><img align="right" src="./profile/stats.svg" alt="tatpow" /></p>
+<div><img align="right" src="./profile/stats.svg" alt="tatpow" /></div>
