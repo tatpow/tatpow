@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">⚙ Tecnologies<h3>
+<h2 align="center">⚙ Tecnologies</h2>>
 <div align="center">
   
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="center">😎 My Stats:</h3>
+<h2 align="center">😎 My Stats:</23>
 
 <p><img align="left" src="./profile/top-langs.svg" alt="tatpow" /></p>
 
